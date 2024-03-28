@@ -12,11 +12,11 @@ inputs:
     required: true
   committer_username:
     description: 'username of committing bot'
-    default: 'thm-p4p1-bot'
+    default: 'thm-1yn3r-bot'
     required: false
   committer_email:
     description: 'email of committing bot'
-    default: 'p4p1@thm.bot'
+    default: '1yn3r@thm.bot'
     required: false
   commit_message:
     description: 'message of committing bot'
