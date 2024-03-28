@@ -1,5 +1,5 @@
 name: 'TryHackMe Badge Workflow'
-author: 'Leo Smith - p4p1'
+author: 'Cuong - 1yn3r'
 description: 'Gets your tryhackme badge and updates it on your README'
 
 inputs:
