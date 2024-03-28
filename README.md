@@ -26,7 +26,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - uses: 1yn3r/tryhackme-badge-workflow@main
         with:
           # Replace with your tryhackme username
           username: "<USERNAME>"
@@ -44,8 +44,8 @@ name               | description                               | default        
 ------------------ | ----------------------------------------- | ------------------------- | --------
 image_path         | Path of the image file you want to update | ./assets/thm_propic.png   | false
 username           | Tryhackme username                        |                           | true
-committer_username | Username of commiting bot                 | thm-p4p1-bot              | false
-committer_email    | Email of commiting bot                    | p4p1@thm.bot              | false
+committer_username | Username of commiting bot                 | thm-1yn3r-bot             | false
+committer_email    | Email of commiting bot                    | 1yn3r@thm.bot             | false
 commit_message     | Commit message                            | Updated THM profile badge | false
 GITHUB_TOKEN       | Your github secret token                  |                           | true
 # tryhackme-badge-workflow
