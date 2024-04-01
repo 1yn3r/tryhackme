@@ -5,7 +5,7 @@ description: 'Gets your tryhackme badge and updates it on your README'
 inputs:
   image_path:
     description: 'Path of the image file you want to update'
-    default: './assets/thm_propic.png'
+    default: './assets/1yn3r.png'
     required: false
   username:
     description: 'Try Hack Me username'
